@@ -22,8 +22,8 @@ You will need the following properly installed on your computer.
 * Change into the new directory
 * In a new terminal window/tab `postgres` to launch postgres
 * In another new terminal window/tab `psql` to launch psql
-* In psql window/tab `CREATE DATABASE best_restaurant;`
-* In the terminal window/tab `psql best_restaurant < best_restaurant.sql`
+* In psql window/tab `CREATE DATABASE to_do;`
+* In the terminal window/tab `psql to_do < to_do.sql`
 * In psql window/tab `CREATE DATABASE to_do_test WITH TEMPLATE to_do;`
 * `gradle build`
 
