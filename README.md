@@ -1,12 +1,12 @@
 # _JAVA To Do List Part 2_
 
-#### _PRACTICE - accessing a Postgres database using Java applications by recreating [JAVA-To-Do-List-Part-1] (https://github.com/LATAEVIA/JAVA-To-Do-List-Part-1) using a database to store tasks., 05/07/2016_
+#### _PRACTICE - accessing a Postgres database using Java applications by recreating [JAVA-To-Do-List-Part-1] (https://github.com/LATAEVIA/JAVA-To-Do-List-Part-1) using One-to-One REStful routing and a database to store tasks., 05/07/2016_
 
 #### By _**LaTaevia**_
 
 ## Description
 
-_Java application where users can add their favorite restaurants by the type of cuisine they offer, and save favorite restaurants to a database._
+_Java application where users can add tasks to do list, and organize tasks by category. All data is stored in a server and can be viewed even after the application is refreshed or closed._
 
 ## Prerequisites
 
