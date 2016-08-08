@@ -6,7 +6,7 @@
 
 ## Description
 
-_Java application where users can add tasks to do list, and organize tasks by category. All data is stored in a server and can be viewed even after the application is refreshed or closed._
+_Java application where users can create tasks for a to do list, and organize tasks by category. All data is stored in a server and can be viewed even after the application is refreshed or closed._
 
 ## Prerequisites
 
